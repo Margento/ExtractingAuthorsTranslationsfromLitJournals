@@ -1,10 +1,14 @@
 # ExtractingAuthorsTranslationsfromLitJournals
 
 
-By using NLP, LLMs and Wikidata searches, the script "https://github.com/Margento/ExtractingAuthorsTranslationsfromLitJournals/blob/main/MapModern_AHiRA_CMoLA_Probable_Contributors_from_TOCs_and_Translation_Stats_MARGENTO_GitHub.ipynb" extracts authors from a journal database and breaks them down into Spanish-language and "foreign." 
+By using NLP, LLMs and Wikidata searches, the script 
+
+"https://github.com/Margento/ExtractingAuthorsTranslationsfromLitJournals/blob/main/MapModern_AHiRA_CMoLA_Probable_Contributors_from_TOCs_and_Translation_Stats_MARGENTO_GitHub.ipynb" 
+
+extracts authors from a journal database and breaks them down into Spanish-language and "foreign." 
 
 
-Then does stats of "original" and (likely) tranlations in the same journal database with percentages of (author's) country of origin/residence.
+Then does stats of "original" and (likely) translations in the same journal database with percentages of (author's) country of origin/residence.
 
 
 Project:
