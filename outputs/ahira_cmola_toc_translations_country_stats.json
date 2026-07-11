@@ -1,0 +1,426 @@
+{
+  "france": {
+    "count": 2247,
+    "percentage": 23.043790380473798
+  },
+  "united states": {
+    "count": 2213,
+    "percentage": 22.695108194031384
+  },
+  "united kingdom": {
+    "count": 535,
+    "percentage": 5.486616757255666
+  },
+  "kingdom of italy": {
+    "count": 396,
+    "percentage": 4.061121936211671
+  },
+  "united kingdom of great britain and ireland": {
+    "count": 390,
+    "percentage": 3.9995897856630087
+  },
+  "italy": {
+    "count": 299,
+    "percentage": 3.066352169008307
+  },
+  "germany": {
+    "count": 243,
+    "percentage": 2.492052097220798
+  },
+  "canada": {
+    "count": 180,
+    "percentage": 1.8459645164598502
+  },
+  "ottoman empire": {
+    "count": 108,
+    "percentage": 1.1075787098759102
+  },
+  "austria": {
+    "count": 106,
+    "percentage": 1.0870679930263563
+  },
+  "kingdom of great britain": {
+    "count": 106,
+    "percentage": 1.0870679930263563
+  },
+  "ancient rome": {
+    "count": 91,
+    "percentage": 0.9332376166547021
+  },
+  "ireland": {
+    "count": 85,
+    "percentage": 0.8717054661060405
+  },
+  "crown of castile": {
+    "count": 84,
+    "percentage": 0.8614501076812634
+  },
+  "portugal": {
+    "count": 84,
+    "percentage": 0.8614501076812634
+  },
+  "belgium": {
+    "count": 73,
+    "percentage": 0.7486411650087171
+  },
+  "sweden": {
+    "count": 69,
+    "percentage": 0.7076197313096093
+  },
+  "german reich": {
+    "count": 59,
+    "percentage": 0.6050661470618398
+  },
+  "switzerland": {
+    "count": 52,
+    "percentage": 0.5332786380884011
+  },
+  "russian empire": {
+    "count": 52,
+    "percentage": 0.5332786380884011
+  },
+  "kingdom of england": {
+    "count": 50,
+    "percentage": 0.5127679212388473
+  },
+  "republic of venice": {
+    "count": 45,
+    "percentage": 0.46149112911496254
+  },
+  "hungary": {
+    "count": 40,
+    "percentage": 0.4102143369910778
+  },
+  "kingdom of portugal": {
+    "count": 40,
+    "percentage": 0.4102143369910778
+  },
+  "australia": {
+    "count": 39,
+    "percentage": 0.3999589785663009
+  },
+  "german empire": {
+    "count": 38,
+    "percentage": 0.38970362014152393
+  },
+  "kingdom of france": {
+    "count": 36,
+    "percentage": 0.36919290329197
+  },
+  "austria\u2013hungary": {
+    "count": 36,
+    "percentage": 0.36919290329197
+  },
+  "nazi germany": {
+    "count": 34,
+    "percentage": 0.34868218644241616
+  },
+  "kingdom of the netherlands": {
+    "count": 33,
+    "percentage": 0.33842682801763924
+  },
+  "weimar republic": {
+    "count": 33,
+    "percentage": 0.33842682801763924
+  },
+  "cisleithania": {
+    "count": 32,
+    "percentage": 0.32817146959286225
+  },
+  "norway": {
+    "count": 25,
+    "percentage": 0.25638396061942365
+  },
+  "czechoslovakia": {
+    "count": 24,
+    "percentage": 0.24612860219464672
+  },
+  "british raj": {
+    "count": 23,
+    "percentage": 0.23587324376986976
+  },
+  "poland": {
+    "count": 23,
+    "percentage": 0.23587324376986976
+  },
+  "kingdom of prussia": {
+    "count": 22,
+    "percentage": 0.2256178853450928
+  },
+  "kingdom of the two sicilies": {
+    "count": 21,
+    "percentage": 0.21536252692031585
+  },
+  "republic of florence": {
+    "count": 16,
+    "percentage": 0.16408573479643113
+  },
+  "taiwan": {
+    "count": 14,
+    "percentage": 0.14357501794687724
+  },
+  "republic of china": {
+    "count": 14,
+    "percentage": 0.14357501794687724
+  },
+  "tang dynasty": {
+    "count": 14,
+    "percentage": 0.14357501794687724
+  },
+  "kingdom of sardinia": {
+    "count": 13,
+    "percentage": 0.1333196595221003
+  },
+  "spanish empire": {
+    "count": 13,
+    "percentage": 0.1333196595221003
+  },
+  "romania": {
+    "count": 13,
+    "percentage": 0.1333196595221003
+  },
+  "soviet union": {
+    "count": 12,
+    "percentage": 0.12306430109732336
+  },
+  "russian soviet federative socialist republic": {
+    "count": 12,
+    "percentage": 0.12306430109732336
+  },
+  "russian socialist federative soviet republic": {
+    "count": 12,
+    "percentage": 0.12306430109732336
+  },
+  "kingdom of denmark": {
+    "count": 10,
+    "percentage": 0.10255358424776945
+  },
+  "kingdom of bavaria": {
+    "count": 9,
+    "percentage": 0.0922982258229925
+  },
+  "new zealand": {
+    "count": 9,
+    "percentage": 0.0922982258229925
+  },
+  "kingdom of naples": {
+    "count": 7,
+    "percentage": 0.07178750897343862
+  },
+  "german democratic republic": {
+    "count": 6,
+    "percentage": 0.06153215054866168
+  },
+  "seljuk empire": {
+    "count": 5,
+    "percentage": 0.051276792123884724
+  },
+  "japan": {
+    "count": 5,
+    "percentage": 0.051276792123884724
+  },
+  "trinidad and tobago": {
+    "count": 5,
+    "percentage": 0.051276792123884724
+  },
+  "second polish republic": {
+    "count": 5,
+    "percentage": 0.051276792123884724
+  },
+  "greece": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "kingdom of lombardy\u2013venetia": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "empire of japan": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "united kingdom of the netherlands": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "south africa": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "kingdom of valencia": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "india": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "papal states": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "guinea-bissau": {
+    "count": 4,
+    "percentage": 0.04102143369910778
+  },
+  "kingdom of spain": {
+    "count": 3,
+    "percentage": 0.03076607527433084
+  },
+  "angola": {
+    "count": 3,
+    "percentage": 0.03076607527433084
+  },
+  "ukraine": {
+    "count": 3,
+    "percentage": 0.03076607527433084
+  },
+  "grand duchy of tuscany": {
+    "count": 3,
+    "percentage": 0.03076607527433084
+  },
+  "classical athens": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "kingdom of saxony": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "russia": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "kingdom of serbs, croats and slovenes": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "kingdom of yugoslavia": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "qajar dynasty": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "empire of brazil": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "ming dynasty": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "congress poland": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "estonia": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "israel": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "bulgaria": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "british empire": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "austrian empire": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "crown of aragon": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "west germany": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "kingdom of hungary": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "acragas": {
+    "count": 2,
+    "percentage": 0.02051071684955389
+  },
+  "kingdom of ireland": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "lebanon": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "kingdom of romania": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "socialist republic of romania": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "duchy of brunswick": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "kingdom of glywysing": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "kingdom of castile": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "croatia": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "barbados": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "luxembourg": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "iran": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "crown colony of malta": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "malta": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "state of malta": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "kingdom of galicia": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "south african republic": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "england": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  },
+  "grand duchy of hesse": {
+    "count": 1,
+    "percentage": 0.010255358424776945
+  }
+}

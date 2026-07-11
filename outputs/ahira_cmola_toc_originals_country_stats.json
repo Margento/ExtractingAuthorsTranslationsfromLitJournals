@@ -1,0 +1,82 @@
+{
+  "argentina": {
+    "count": 7804,
+    "percentage": 49.86581469648562
+  },
+  "spain": {
+    "count": 4044,
+    "percentage": 25.840255591054312
+  },
+  "uruguay": {
+    "count": 1321,
+    "percentage": 8.440894568690096
+  },
+  "peru": {
+    "count": 1044,
+    "percentage": 6.670926517571885
+  },
+  "mexico": {
+    "count": 541,
+    "percentage": 3.4568690095846644
+  },
+  "chile": {
+    "count": 417,
+    "percentage": 2.6645367412140573
+  },
+  "colombia": {
+    "count": 404,
+    "percentage": 2.5814696485623
+  },
+  "cuba": {
+    "count": 291,
+    "percentage": 1.8594249201277957
+  },
+  "brazil": {
+    "count": 274,
+    "percentage": 1.7507987220447285
+  },
+  "nicaragua": {
+    "count": 152,
+    "percentage": 0.9712460063897763
+  },
+  "venezuela": {
+    "count": 129,
+    "percentage": 0.8242811501597443
+  },
+  "dominican republic": {
+    "count": 94,
+    "percentage": 0.6006389776357828
+  },
+  "paraguay": {
+    "count": 90,
+    "percentage": 0.5750798722044729
+  },
+  "bolivia": {
+    "count": 55,
+    "percentage": 0.3514376996805112
+  },
+  "honduras": {
+    "count": 24,
+    "percentage": 0.15335463258785942
+  },
+  "ecuador": {
+    "count": 23,
+    "percentage": 0.14696485623003194
+  },
+  "guatemala": {
+    "count": 22,
+    "percentage": 0.14057507987220447
+  },
+  "costa rica": {
+    "count": 11,
+    "percentage": 0.07028753993610223
+  },
+  "el salvador": {
+    "count": 5,
+    "percentage": 0.03194888178913738
+  },
+  "panama": {
+    "count": 1,
+    "percentage": 0.006389776357827476
+  }
+}
