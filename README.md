@@ -15,9 +15,13 @@ Project:
 
 
 ## Big Translation History 
-# ERC project “Social Networks of the Past. Mapping Hispanic and Lusophone Modernity (1898–1959)” 
+
+ERC project:
+
+
+# “Social Networks of the Past. Mapping Hispanic and Lusophone Modernity (1898–1959)” 
 # led by Diana Roig-Sanz 
-between 2019 and 2024
+(2019 through 2024)
 
 
 Database:
